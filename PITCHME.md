@@ -3,6 +3,8 @@
 --- 
 ### HELLO! :)
 
+It's me...
+
 ### Installation und Accounterstellung
 - siehe `README` des Repositories
 - `www.github.com/friep/git-our-shit-together`
